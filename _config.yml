@@ -110,7 +110,7 @@ customLinks:
 #comment config
 disqus:
   config: true
-  id: @bin1991
+  id: bin1991
 
 
 #################################### global configure #######################################
